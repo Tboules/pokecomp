@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "Pokemon Solid";
+  src: url("f4d1593471d222ddebd973210265762a.woff") format("woff");
+}
+
+.heading {
+  display: grid;
+  height: auto;
+  border-bottom: 3px solid #fff5f5;
+  background-color: #fffff0;
+  grid-template-rows: 50% 50%;
+  grid-template-columns: repeat(10, 10%);
+}
+
+.heading-image {
+  width: 95%;
+  height: auto;
+  border: 1px solid #fffff0;
+  background: #fff5f5;
+  padding: 1px;
+  margin-bottom: 0px;
+}
+
+.title {
+  font-family: "Pokemon Solid";
+  color: #3182ce;
+  font-size: 50px;
+  text-shadow: 2px 2px #fc8181;
+  padding-bottom: 50px;
+  grid-column-start: 5;
+  justify-items: center;
+  padding-left: 20px;
+}
+
+.drawerButton {
+  transform: translateX(33%) rotate(90deg);
+  width: 60px;
+  height: 20px;
+  justify-self: right;
+  align-self: center;
+  grid-column-end: 11;
+  margin-top: 0%;
+  background-color: #fff5f5;
+  border-color: #fffff0;
+  cursor: pointer;
+}
