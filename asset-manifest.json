@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pokecomp/static/css/main.44535452.chunk.css",
+    "main.js": "/pokecomp/static/js/main.86fa200c.chunk.js",
+    "main.js.map": "/pokecomp/static/js/main.86fa200c.chunk.js.map",
+    "runtime-main.js": "/pokecomp/static/js/runtime-main.b025b0d5.js",
+    "runtime-main.js.map": "/pokecomp/static/js/runtime-main.b025b0d5.js.map",
+    "static/js/2.03be5295.chunk.js": "/pokecomp/static/js/2.03be5295.chunk.js",
+    "static/js/2.03be5295.chunk.js.map": "/pokecomp/static/js/2.03be5295.chunk.js.map",
+    "index.html": "/pokecomp/index.html",
+    "precache-manifest.2f63bc613eee464543b967f4bb8ae0bc.js": "/pokecomp/precache-manifest.2f63bc613eee464543b967f4bb8ae0bc.js",
+    "service-worker.js": "/pokecomp/service-worker.js",
+    "static/css/main.44535452.chunk.css.map": "/pokecomp/static/css/main.44535452.chunk.css.map",
+    "static/js/2.03be5295.chunk.js.LICENSE.txt": "/pokecomp/static/js/2.03be5295.chunk.js.LICENSE.txt",
+    "static/media/Heading.css": "/pokecomp/static/media/f4d1593471d222ddebd973210265762a.f7f22219.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b025b0d5.js",
+    "static/js/2.03be5295.chunk.js",
+    "static/css/main.44535452.chunk.css",
+    "static/js/main.86fa200c.chunk.js"
+  ]
+}
